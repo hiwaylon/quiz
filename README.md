@@ -1,4 +1,5 @@
-tornado-baseline
+quiz api
 ================
 
-Base line boilerplate for Tornado projects.
+API for designing online quizzes for fun and profit!
+
